@@ -10,4 +10,4 @@ public class MyClass {
     public String hello() {
         return "Hello, Class!";
     }
-} 
+}
